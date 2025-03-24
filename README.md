@@ -1,4 +1,4 @@
-% EEG of single epilpsy seizure patient EEG data
+## EEG of single epilpsy seizure patient EEG data
 
 This is the full data published in 
 
